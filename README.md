@@ -1,7 +1,7 @@
 # Docker Image Utility
 
 A utility script to assist extracting Docker Images from compose files.
-Especially useful while installing Docker images on a remote server without internet access/Docker Hub due to company proxy policies.
+Especially useful while installing Docker images on a remote server without internet access/Docker Hub.
 
 ## Prerequisites
 
